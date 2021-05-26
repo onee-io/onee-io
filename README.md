@@ -1,4 +1,10 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=onee-io&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+
+
+### Hello ~ 👋
+
+- 🔭 I’m currently working on java web and blockchain development.
+- 🌱 I’m currently learning and sharding on [my blog](https://www.onee.top/), welcome~
 
 <!--
 **onee-io/onee-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
