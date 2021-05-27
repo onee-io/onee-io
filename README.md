@@ -3,7 +3,7 @@
 ### 你好，世界 👋
 
 - 🔭 I’m currently working on java web and blockchain development.
-- 🌱 I’m currently learning and sharding on [my blog](https://www.onee.top/), welcome~
+- 🌱 I’m currently learning and sharding on [my blog](https://blog.onee.io/), welcome~
 
 <!--
 **onee-io/onee-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
